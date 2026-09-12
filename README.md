@@ -69,24 +69,3 @@
 ## 📦 自研项目 / Projects
 
 - **[dsh-notify](https://github.com/Lubaoshuai/dsh-notify)** — DeepSeek Harness 通知插件：agent 可调用的 `notify_send` 工具 + 定时提醒外发（Telegram / Slack / Discord / 飞书 / 钉钉 / Bark / ntfy / webhook），TypeScript
-
----
-
-## 📈 GitHub 统计 / Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lubaoshuai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lubaoshuai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lubaoshuai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Lubaoshuai&hide_border=true&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Lubaoshuai&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Lubaoshuai&hide_border=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubaoshuai&layout=compact&hide_border=true&langs_count=8)
-
-<!--
-一个 AI Agent 帮我维护这些贡献的分析与提交纪律，根因分析见各 PR 描述。
--->
